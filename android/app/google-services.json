@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406590050313",
+    "project_id": "monpay-4f6f7",
+    "storage_bucket": "monpay-4f6f7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406590050313:android:fa04f26051ea9d89c828d8",
+        "android_client_info": {
+          "package_name": "com.example.monpay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwN4wNycvkBO5pJ3K-7_M5H-6brSmcnCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
